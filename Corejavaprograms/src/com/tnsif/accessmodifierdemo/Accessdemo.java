@@ -1,6 +1,12 @@
 package com.tnsif.accessmodifierdemo;
 // demo for access modifier
 
+
+//public
+//private
+//protected
+//default
+
 public class Accessdemo {
 	
 	// public 
