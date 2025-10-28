@@ -10,10 +10,10 @@ package com.tnsif.accessmodifierdemo;
 public class Accessdemo {
 	
 	// public 
-	 int a=9;
+	 abstract int a=9;
 	String s="guru";
 	
-	public void display() {
+	 void display() { 
 		System.out.println("welcome to java");
 	}
 	
