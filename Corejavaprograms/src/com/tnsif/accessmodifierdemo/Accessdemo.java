@@ -10,7 +10,7 @@ package com.tnsif.accessmodifierdemo;
 public class Accessdemo {
 	
 	// public 
-	 abstract int a=9;
+	  int a=9;
 	String s="guru";
 	
 	 void display() { 
