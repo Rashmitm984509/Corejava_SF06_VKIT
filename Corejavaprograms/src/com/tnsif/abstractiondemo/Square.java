@@ -3,6 +3,7 @@ package com.tnsif.abstractiondemo;
 public class Square extends Shape{
 	
 	private float side;
+	
 	public Square() {
 		side=2.0f;
 	}
@@ -16,7 +17,7 @@ public class Square extends Shape{
 		
 	}
 	public static void main(String[] args) {
-		Square s=new Square(4.0f);
+		Square s=new Square();
 		s.calarea();
 		s.show();
 	}
